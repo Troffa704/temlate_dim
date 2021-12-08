@@ -1,0 +1,11 @@
+- assets
+- src
+    - fonts
+    - img
+        - img
+    - js
+        - index.js
+    - less
+        - index.less
+    - package.json
+    - webpack.config.js
